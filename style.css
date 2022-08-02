@@ -1,0 +1,25 @@
+p{
+	color: darkred;
+	margin: 0;
+	
+
+}
+
+
+*{
+	background-color: black;
+
+}
+a{
+	color: green;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	font-size: 25px;
+}
+
+}
+.whitecolor{
+	color: white;
+}
